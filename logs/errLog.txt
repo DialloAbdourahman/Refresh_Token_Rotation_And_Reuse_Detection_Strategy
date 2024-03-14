@@ -1,0 +1,110 @@
+2024/03/13	09:32:49	99d0f3fe-c3b9-4bbb-9c2d-094d6aec9477	Error:Not allowed by cors
+
+2024/03/13	09:32:49	d80a4cc9-569e-4f14-baa2-f8537bfd5d8d	Error:Not allowed by cors
+
+2024/03/13	09:33:25	c8fda4e2-d61d-448e-8c84-e09db87bdd23	Error:Not allowed by cors:undefined
+
+2024/03/13	09:33:25	ae46dbe9-c9a2-44a4-aca6-8028856aeb4c	Error:Not allowed by cors:undefined
+
+2024/03/13	09:33:46	035f6d38-5bf4-4ea0-8e65-44d71aed00d3	Error:Not allowed by cors:undefined
+
+2024/03/13	09:33:46	9553c76f-ffa3-430e-aeff-b40c77047324	Error:Not allowed by cors:undefined
+
+2024/03/13	09:52:41	d628835b-1568-4908-aaff-dc1043f51c1e	Error:ENOENT: no such file or directory, stat '/home/dialloabdourahman/Documents/SWE/NODE.JS/Final/04tut/routes/views/index.html'
+
+2024/03/13	13:10:53	973d9fab-3e92-48c0-9ed5-1b1b4f5ad597	Error:Username exist already
+
+2024/03/13	13:11:02	580e8e04-b122-4149-a337-7b4bed72a424	Error:Username exist already
+
+2024/03/13	13:11:44	b9fe6897-bc21-48b7-9664-93977e810024	Error:Username exist already
+
+2024/03/13	13:12:03	94cfd799-eed0-45eb-9743-a20d4504c5c8	Error:Username exist already
+
+2024/03/13	13:12:25	8159402d-2796-4165-922b-346e24773e3d	Error:Username exist already
+
+2024/03/13	13:12:27	5ebdfe28-3efa-4473-b27d-dee502eeb849	Error:Username exist already
+
+2024/03/13	13:21:28	93175f4f-ed85-4fa5-b778-bbfee36ed195	Error:Unable to login
+
+2024/03/13	13:21:36	352c96f2-9034-464f-930c-cb7fc66337d6	Error:Unable to login
+
+2024/03/13	13:21:40	61338baf-7f5e-40ff-b427-4c9ccf54c158	Error:Unable to login
+
+2024/03/13	13:55:17	39920f4c-8908-4d9e-a688-6cb6f8ff8c63	TypeError:The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+
+2024/03/13	13:55:18	8e109fa0-9967-49f3-a47c-1df4604f648e	TypeError:The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+
+2024/03/13	13:55:38	98d86c0e-d6e0-4591-a9c7-23a06bc4def8	Error:Username exist already
+
+2024/03/13	13:55:40	a5344e37-e058-4c7a-935c-7c119e069944	Error:Username exist already
+
+2024/03/13	13:55:40	3164cadd-aaaf-4935-ae7b-dcc78acd0335	Error:Username exist already
+
+2024/03/13	13:56:00	b92d9e9d-5dae-4c95-8f18-c310b068eefa	Error:Username exist already
+
+2024/03/13	13:56:02	7be71243-de77-447d-9ee2-a05a3766c401	Error:Username exist already
+
+2024/03/13	13:56:12	743f9f77-4d5a-4557-9a37-55fbfdc0cb25	Error:Username exist already
+
+2024/03/13	13:56:13	94ce1f9b-283f-4003-860b-4d9b6b33ed4f	Error:Username exist already
+
+2024/03/13	13:56:31	2278abb3-62e9-4bdd-a136-cbfd4ee484ce	TypeError:The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+
+2024/03/13	13:58:06	05d79be5-b670-47bc-8074-b8de5b5be5a5	TypeError:The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+
+2024/03/13	14:41:46	06671db7-0974-43d3-93b6-ee86fdbf63d3	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:41:48	5e1c81e7-46f6-4bd2-bfe8-33232b6bfcd5	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:46:25	5d3c2d17-a303-403d-9987-bdfe037b8b33	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:46:35	cba3b6dc-8728-4721-8997-f2b93a2f3761	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:46:59	9bc84c53-15e0-4261-91c9-65920adafa51	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:49:16	3ae72131-1e37-4947-be1e-0b990e9d77be	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:49:29	520cc26b-82cc-45f6-bc16-c8b60fec4a53	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:49:43	5fb14b6e-062f-425e-93b4-3ba7bfaac393	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:50:35	a3ab0c6f-d529-458a-ac4f-56a6ff8e830c	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:50:58	801ec757-73bb-42ff-a8cd-2e05171986ea	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:52:28	28ad7904-b99f-4a33-9f55-a813107ef8c7	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	14:53:06	be40ce7e-5fac-439e-b1e1-d60896962541	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	15:38:04	91f7aa69-40ee-42e7-bccf-4a2fac8d74f0	Error:Cannot set headers after they are sent to the client
+
+2024/03/13	15:39:03	3f21961e-0868-4c0e-9949-e1b5ced2d1cf	Error:secretOrPrivateKey must have a value
+
+2024/03/13	15:39:37	c2159bc1-d3e3-420c-9462-8ccf201131a1	Error:secretOrPrivateKey must have a value
+
+2024/03/13	15:39:57	5ec1b28e-31d1-4c10-9855-e8ff03c5600f	Error:secretOrPrivateKey must have a value
+
+2024/03/13	15:44:18	90dab453-793c-41e1-9b83-0e5af5c9b120	Error:Cannot set headers after they are sent to the client
+
+2024/03/14	10:02:30	6a35077d-2cbd-407d-9e95-ead306dbf991	Error:Unable to login
+
+2024/03/14	11:54:33	0449b491-7368-4823-be79-61c4b29db3b7	Error:Username exist already
+
+2024/03/14	11:56:36	a76b3c8f-d505-41ff-a59a-b6aa6fc062e4	Error:Username exist already
+
+2024/03/14	11:56:44	f6c636ef-f637-4481-8988-2ef9a3ff65a1	Error:Username exist already
+
+2024/03/14	12:11:11	ab88a133-f541-4e94-a449-fb666a02efd3	Error:Unable to login
+
+2024/03/14	12:11:28	e1135172-2be2-4f08-828e-71b87a475c43	Error:Unable to login
+
+2024/03/14	12:11:29	d49bd20d-4be7-4c34-84d2-eee7a2321106	Error:Unable to login
+
+2024/03/14	12:11:37	719190f4-203e-4de1-bc6f-fddbb7684a70	Error:Unable to login
+
+2024/03/14	12:15:01	66ee6bf5-909a-467c-82cc-ec9c9ab2c552	Error:Unable to login
+
+2024/03/14	14:12:47	1eebec61-07b5-4718-be27-138e1a885f85	Error:Unable to login
+
+2024/03/14	14:14:05	c399a273-af66-45ac-9d42-d32b9b540143	Error:Cannot set headers after they are sent to the client
+
