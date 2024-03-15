@@ -6,7 +6,7 @@ const User = require('../model/User');
 const handleLogin = asyncHandler(async (req, res) => {
   // Check if the is an existing cookie.
   const cookies = req.cookies;
-  console.log(`cookie available at login ${JSON.stringify(cookies)}`);
+  // console.log(`cookie available at login ${JSON.stringify(cookies)}`);
 
   const { username, password } = req.body;
 
@@ -52,14 +52,16 @@ const handleLogin = asyncHandler(async (req, res) => {
   let newRefreshTokenArray = !cookies?.jwt
     ? foundUser.refreshToken
     : foundUser.refreshToken.filter((rt) => rt !== cookies.jwt);
-  if (cookies?.jwt) {
-    /*
-      Scenario added here:
-        1) User logs in but never users RT and doesn't log out.
-        2) RT is stolen.
-        3) If 1 & 2, reuse-detection is needed to clear all RTs when user logs in
-    */
 
+  ////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  /*
+    Scenario added here:
+      1) User logs in but never users RT and doesn't log out.
+      2) RT is stolen.
+      3) If 1 & 2, reuse-detection is needed to clear all RTs when user logs in.
+  */
+  if (cookies?.jwt) {
     const refreshToken = cookies.jwt;
     const foundToken = await User.findOne({ refreshToken }).exec();
 
@@ -75,6 +77,8 @@ const handleLogin = asyncHandler(async (req, res) => {
       secure: true,
     });
   }
+
+  ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
   // Saving refreshToken with current user
   foundUser.refreshToken = [...newRefreshTokenArray, newRefreshToken];
