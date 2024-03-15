@@ -2,7 +2,7 @@ const jwt = require('jsonwebtoken');
 const User = require('../model/User');
 
 const handleRefreshToken = async (req, res) => {
-  // Get the cookies from the requet
+  // Get the cookies from the request
   const cookies = req.cookies;
 
   // Send Unauthorized if the jwt cookie wasn't found.
@@ -29,7 +29,7 @@ const handleRefreshToken = async (req, res) => {
         if (err) return res.sendStatus(403);
 
         // Now if we can decode the token, it means someone is trying to reuse this valid refresh token to perform bad activities and so we need to invalidate all the refresh token.
-        console.log('Attempting refresh token reuse!');
+        console.log('Attempting refresh token reuse at refresh token!');
         const hackedUser = await User.findOne({ username: decoded.username });
         hackedUser.refreshToken = [];
         await hackedUser.save();

@@ -55,12 +55,12 @@ const handleLogin = asyncHandler(async (req, res) => {
 
   ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-  /*
-    Scenario added here:
-      1) User logs in but never users RT and doesn't log out.
-      2) RT is stolen.
-      3) If 1 & 2, reuse-detection is needed to clear all RTs when user logs in.
-  */
+  /*                                                                                                        //
+    Scenario added here:                                                                                    //
+      1) User logs in but never users RT and doesn't log out.                                               //
+      2) RT is stolen.                                                                                      //
+      3) If 1 & 2, reuse-detection is needed to clear all RTs when user logs in.                            //
+  */ //
   if (cookies?.jwt) {
     const refreshToken = cookies.jwt;
     const foundToken = await User.findOne({ refreshToken }).exec();
