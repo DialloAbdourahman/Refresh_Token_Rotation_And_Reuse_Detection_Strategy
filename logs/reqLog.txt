@@ -1194,3 +1194,605 @@
 
 2024/03/15	11:02:58	05c96693-02b1-4489-8a86-2357d7461ab1	GET	undefined	/refresh
 
+2024/05/04	18:03:50	33630846-37ab-4f2a-816c-f76c4117b218	OPTIONS	http://localhost:3000	/register
+
+2024/05/04	18:04:52	b1718297-0de6-41ae-ac00-9ae6212c32e5	OPTIONS	http://localhost:3000	/register
+
+2024/05/04	18:04:52	28ac935f-97fd-44e4-946b-c1ffeb153219	POST	http://localhost:3000	/register
+
+2024/05/04	18:06:58	41f40894-b43a-42db-8570-bee12cbfc203	OPTIONS	http://localhost:3000	/register
+
+2024/05/04	18:06:58	bdac2edb-8d8a-4bdb-a7ef-69d61d748b00	POST	http://localhost:3000	/register
+
+2024/05/04	18:08:49	9f1a15ea-b922-45ef-b44a-d31a59a34009	OPTIONS	http://localhost:3000	/login
+
+2024/05/04	18:08:49	4b8a0308-cb8e-4044-9763-bdcc665da0ca	POST	http://localhost:3000	/login
+
+2024/05/04	18:09:19	b1a6929d-e63a-46d0-aa46-22c2807f9cb4	OPTIONS	http://localhost:3000	/login
+
+2024/05/04	18:09:19	4894639d-1841-4b94-bec6-6d52f87fb020	POST	http://localhost:3000	/login
+
+2024/05/04	18:09:34	90af3374-8e8f-4cba-b402-5f14dc4647f9	OPTIONS	http://localhost:3000	/login
+
+2024/05/04	18:09:34	31b04349-505e-49f9-bdcd-1919f0519082	POST	http://localhost:3000	/login
+
+2024/05/04	18:10:15	8a7f339d-1002-4a8c-add6-90582b44cf6b	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	18:10:15	d0f477cc-8112-4378-b9b7-2a94b3c5b495	POST	http://localhost:3000	/auth
+
+2024/05/04	18:10:52	a2953f7a-276b-491f-bfa8-5f92c3c6f7ca	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	18:10:52	bd669651-82a7-440f-a3d7-132c9e677399	POST	http://localhost:3000	/auth
+
+2024/05/04	18:46:56	4a982257-7a41-4232-9afe-d8e4085509be	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	18:46:56	73c3a417-0176-46d3-8737-4c99d7f5cfb9	POST	http://localhost:3000	/auth
+
+2024/05/04	18:47:57	fc4b772d-ef9f-4365-943e-882be531645f	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	18:47:57	1092f769-b749-4215-9908-37e049b79db4	POST	http://localhost:3000	/auth
+
+2024/05/04	18:48:23	ffb211bf-c21a-42d9-8089-75fd07bb45a9	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	18:48:23	fc80a629-79a2-4d4c-89d2-1a21b268a5e7	POST	http://localhost:3000	/auth
+
+2024/05/04	18:48:53	49c8875b-b4ee-44a3-aa79-6350d3b87c37	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	18:48:53	4186cc37-b923-4cc0-95fd-cf043c261bc3	POST	http://localhost:3000	/auth
+
+2024/05/04	18:50:01	71fe372c-7991-4a11-85b0-fc6cc6974ef2	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	18:50:01	9f688971-b88d-40d0-99fb-184f66b6cdc9	POST	http://localhost:3000	/auth
+
+2024/05/04	19:08:48	8787141e-e9f9-4ec2-8935-e339f86db473	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:08:48	24287074-0586-43a4-b796-222916dc0ce3	POST	http://localhost:3000	/auth
+
+2024/05/04	19:30:11	e07f7dd5-e4ce-456e-95a0-c7e5bbfc908f	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:30:11	afee7886-bc70-46d8-a46f-f84838a5857f	POST	http://localhost:3000	/auth
+
+2024/05/04	19:30:45	8b99eb15-4815-48a6-b40e-102d3a0390b1	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:30:45	d32c87b4-ae84-46e9-8f29-0874841cf642	POST	http://localhost:3000	/auth
+
+2024/05/04	19:33:54	ef36dc2c-7866-413b-99be-d571ae7cc9ad	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:33:54	f3c1caa2-cf3f-4875-9131-69eb29d92cc4	POST	http://localhost:3000	/auth
+
+2024/05/04	19:47:11	5f2a977a-a190-4ba1-80be-e4b0671f41f5	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:47:11	73f7506a-4785-4290-b422-78e38f76ec33	POST	http://localhost:3000	/auth
+
+2024/05/04	19:47:27	2cb26763-e883-47e8-b537-53984451cf85	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:47:27	0d9660d8-fc1c-45b0-98d6-322f5851d28e	POST	http://localhost:3000	/auth
+
+2024/05/04	19:53:00	ba75c973-6355-435b-8ffa-b525bb7f0329	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:53:00	f190f9ef-197f-495b-adbe-d8ef0b89523f	POST	http://localhost:3000	/auth
+
+2024/05/04	19:53:08	4aa78404-caa4-4e7e-8b36-083dbb5eab71	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:53:47	ee6a60b5-749a-4e8d-9e83-ba342e6bdfff	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:54:51	14043563-3d50-43e8-b229-c6141e12d3d0	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:54:51	cb115573-a7b4-4570-8305-cf09cf9a7cd7	POST	http://localhost:3000	/auth
+
+2024/05/04	19:54:56	6b4a4223-70af-4e0b-a772-18e4621fa7e6	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:54:58	3e14c4f9-d64a-4e21-887f-22aa2e969bf0	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:55:42	28f2b9eb-7187-44eb-b250-8a5a8e1e190a	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:55:43	7cc02e98-f7c1-4817-9d4b-4c8371a9a373	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:55:44	bb44ef20-1a6c-4ea0-bbba-653db22d0efe	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:01	71d171dd-7f87-4e5f-915a-20fad3917c44	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:02	abf72984-0718-46fd-80ea-55d5aaf4025e	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:03	6006f661-fba0-44eb-9ea0-62437e3af98e	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:03	04ee6a25-511a-4657-b876-61b3a64d5642	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:04	a7dbc58a-0047-493d-b955-918ad22d4e1c	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:04	9d1426d3-8bde-47b2-abc9-c0b9fdf31284	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:39	1cf4f48c-88c2-49de-a047-9112f2a7957d	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:41	dd2fdada-5f97-45d4-9735-7f698cb49579	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:42	b19444fa-dd64-49a8-b2ef-315a103eb54e	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:56:43	b794fb46-e1d2-4cd2-a569-782d50565deb	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:57:00	13f8796a-2ce5-40ab-abd9-e0f71d25d066	GET	http://localhost:3000	/refresh
+
+2024/05/04	19:58:55	bdb706f2-91a6-4c15-872e-c51835410681	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:58:55	321f44a7-0573-454e-b1bb-e8d1c8faa2b8	POST	http://localhost:3000	/auth
+
+2024/05/04	19:59:53	5f8c4511-574b-4d65-ad24-938a54267664	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	19:59:53	3838bfc3-052e-45d7-adb0-8f4736140f8c	POST	http://localhost:3000	/auth
+
+2024/05/04	20:00:31	f2766d3b-f762-4693-8529-5c0b38c31277	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:00:31	ea5934f3-85e1-4f6d-89d7-4f1967b79769	POST	http://localhost:3000	/auth
+
+2024/05/04	20:00:37	69135ad3-0421-4e76-b188-fe7ba5b3712d	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:01:35	2378d31c-6d04-478b-a8d9-b842b295acc6	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:01:35	b16ad0a0-91b9-46af-8a90-c996e487f45d	POST	http://localhost:3000	/auth
+
+2024/05/04	20:02:37	3187c150-4afb-423e-b567-7bf9e44140bb	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:02:37	cc65917a-6262-4436-8441-3d3335205f4d	POST	http://localhost:3000	/auth
+
+2024/05/04	20:02:41	f709edc3-2bc5-4df5-8094-92f8475fd636	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:02:58	cb983de6-0522-4ce7-8cc1-c2d791797fa5	POST	undefined	/auth
+
+2024/05/04	20:03:05	9d5ad977-f7fa-43f9-a01a-f23123c54cfe	GET	undefined	/refresh
+
+2024/05/04	20:03:12	4954efac-6130-460b-9895-9cdd2544aaa9	POST	undefined	/auth
+
+2024/05/04	20:03:17	776620de-af53-4f9e-b1a9-8d4a2b118b99	POST	undefined	/auth
+
+2024/05/04	20:03:18	52b50589-de1b-45b5-b81c-4ac45615d1b5	POST	undefined	/auth
+
+2024/05/04	20:03:18	a8d0285e-6d14-41af-8231-ed9253b3a7aa	POST	undefined	/auth
+
+2024/05/04	20:03:19	1921269f-fdc6-4115-8d7e-bd739270acfe	POST	undefined	/auth
+
+2024/05/04	20:03:19	69791d6c-7551-4761-a60c-b1b7a0ae7443	POST	undefined	/auth
+
+2024/05/04	20:03:20	679ef5bf-dc89-4407-9075-278656fba334	POST	undefined	/auth
+
+2024/05/04	20:03:55	761f22be-9aca-4afc-b128-93cad8f11b43	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:04:21	a292c44b-efa6-4a91-86dd-aaee8a2063d2	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:04:21	a6572bc5-0bdf-4e31-baa2-3b1f9a19519b	POST	http://localhost:3000	/auth
+
+2024/05/04	20:04:26	c29116ff-954c-413e-b0b1-67b6185eb873	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:05:54	b04f8a9d-d421-4e3d-a4a8-05bb61ef5771	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:05:55	c4acc538-9e46-4437-bd60-68c713c0d134	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:16	916ab0cd-ca6b-4655-ad4e-63df80f09617	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:17	447ab338-1ecb-4d1b-b0c6-84b697e6aa37	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:35	b67b917b-c18e-403f-856f-365b37c1b501	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:06:35	05db798b-00ca-4256-9f1f-923c566d0443	POST	http://localhost:3000	/auth
+
+2024/05/04	20:06:38	49cc196d-ede2-4d93-92b1-b16b2ab45ab5	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:39	487336ba-604e-4528-973b-e9b0f6dfecaf	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:40	2e0d4293-c914-4804-b9c0-31e560cce058	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:40	3a8b76be-04ba-4dd5-8141-bbb693f93b29	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:40	a34866f4-2dba-4956-99f5-3fc5e4453561	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:40	37f5f600-894e-4c07-98e7-1fd23f47a79f	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:41	5672e960-88d5-4efb-839b-036441a95d73	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:06:41	dd47e6fb-6987-4fee-b437-14496bf7f209	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:07:26	19985053-e998-4b12-ba25-91f3c29c879b	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:07:26	2d07d7ec-4124-4f20-859d-1028b2f011b1	POST	http://localhost:3000	/auth
+
+2024/05/04	20:07:32	950f9490-9f9b-4aa8-964e-0a290fc277d5	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:07:33	46d4df49-8b40-4fae-a54d-f1c37902a9c6	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:07:33	722235d7-23e0-4038-9e14-53ccddab53d6	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:07:33	e6ce62e8-3d37-422a-a408-9976d3eae014	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:07:33	f7b5410a-c696-4510-a0ee-e7cbbfc81e31	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:07:33	509bdccf-6e46-4a11-b8e6-0dfbc5f8af2a	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:09:08	c379cfba-56f3-4a8c-8803-bbfec4f2b55b	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:09:09	036bc932-0086-49e7-bcfc-04f4abf3c6ae	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:09:14	dfe3f8bf-37d2-4866-b52a-65208cc4c851	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:09:18	7c4b131e-2a5b-4bb2-866e-fda25c75f493	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:09:41	2e03c838-91b6-4198-9c6c-38bf61c8eb17	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:10:07	018850b4-689d-4245-9b52-ea130682cc75	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:10:57	da58f441-17be-4128-a9a7-868281401c9f	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:11:12	388cfd2d-2d17-46c5-93e8-c9a6b353832c	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:13:30	28b56fa0-01e0-4f77-b7f8-0337d30a5183	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:13:30	9a2db677-8c8a-481e-ae58-3e9602adf754	POST	http://localhost:3000	/auth
+
+2024/05/04	20:13:33	f5c48308-3a20-416c-a2bf-e7d99ac3b577	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:14:02	01f64151-a246-4196-a7d4-ea7a553901d7	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:12	bf9ad721-3a27-493b-8c6c-89a936d6a104	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:14	f4b83fad-cf96-45b6-b8e9-a9e2fc95f4c5	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:16	aa98f6b9-3591-470f-a7af-484d2452dae1	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:18	7dc2464f-22e0-424d-b9f6-84e8361473c8	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:19	be56b068-5d33-46ae-9141-960838ee420c	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:20	438ddfbf-3837-4078-ade1-5ced1d4d23df	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:21	285a2842-2932-4bbb-bd87-5c64cbaa7f3c	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:22	98a700d1-fbcd-49bc-a266-8a22d9127925	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:23	eb3f6856-ea47-48ef-afdc-4114db967929	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:24	a104f564-7207-4b85-86f3-db6fea15a634	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:25	aeb1772e-65c4-4ee1-84fd-4e8513e667d5	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:25	7df35d35-3630-49bd-aa39-da82bea23dd1	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:25	c9ccb3c5-e516-4ef6-9583-189fa6d4739f	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:26	af1a89d9-9886-436b-98f6-8484204f8b44	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:26	eb0d2b5b-7041-4def-9669-b956dd7d587d	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:26	303fe9b9-d5f6-42a3-8938-78aedee82abe	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:26	5bdb3e1e-e9cc-4c3c-834d-537b9476a63f	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:16:27	e21c61ad-e616-4ada-8b5d-9a4f986a719f	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:44:56	1daf347e-070e-462c-913c-8036aa122cb4	GET	http://localhost:3000	/employees
+
+2024/05/04	20:46:52	d0e1e207-47e8-4186-ba34-479e7a84d858	GET	http://localhost:3000	/employees
+
+2024/05/04	20:47:12	65fc16b4-5927-43b3-9ba0-65068b8eed72	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	20:47:12	86752ac0-14d1-44ca-a12f-a5d68c0271fa	POST	http://localhost:3000	/auth
+
+2024/05/04	20:47:20	0a7be41d-e720-4551-9fdd-8c4194cde7a7	GET	http://localhost:3000	/employees
+
+2024/05/04	20:47:49	dd47fe85-8f5d-421a-899a-b3ae353b3a01	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	20:47:49	29edba60-e045-4173-b301-28d027b1d38c	GET	http://localhost:3000	/employees
+
+2024/05/04	20:49:48	a832760c-e1f3-46d1-99ba-3d90312a7977	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:49:50	8426f40c-0f77-4d66-b561-0c183e1d5843	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:49:52	1bc62da0-5e7d-46ac-92bb-6ee5ffe4cf89	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:50:05	8210563e-de08-4f63-b753-e513a6ef0559	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:50:06	ce92ed64-ce0f-4813-81e3-967dc287c19f	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:50:07	6f0e0b22-71eb-4a86-a020-f47c7b16cb98	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:50:09	3048a88d-6e5c-434f-a05d-7b444ba8f529	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:50:10	857a2b28-e5d4-49b6-9728-ade6727bed42	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:52:10	03e793ef-b34a-48c8-be20-62bf0353094e	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	20:52:10	cf72aef3-2445-4a78-bda5-2d6af6f41df7	GET	http://localhost:3000	/employees
+
+2024/05/04	20:54:31	0d79efcc-514d-406d-9345-09f47feb9f48	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:54:34	382c21b7-055b-43c8-86d0-98c5ff32b55d	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	20:54:34	b6a2561d-d855-4cd6-8997-a1d9a5835fbb	GET	http://localhost:3000	/employees
+
+2024/05/04	20:54:57	2d545d91-4fd5-40b1-b4af-de17260f85fb	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	20:54:57	ba40d4ae-2649-4336-90f7-8092a86e8b2a	GET	http://localhost:3000	/employees
+
+2024/05/04	20:55:00	fbe0a94c-8b8a-436d-bff7-c8151b16bec8	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:13	f5db29e0-d439-4b36-a802-b7bae344ab07	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	20:58:13	09d5f8fc-6eca-4a45-931c-a655f74d63c9	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:13	ec1a16e1-e890-44b2-869d-66eaedfdaf61	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:58:13	9e6349e5-5b8d-4820-8aab-3c7ad5b99848	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:23	157d9703-e7b8-4bd2-9772-31b55db161ba	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	20:58:23	2bb9b32f-f693-4926-8e06-b8d903394c05	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:25	5a0d4038-ca2b-402d-9a22-ce3924cf9fe0	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:28	55dcf184-2dc1-4e8b-a149-c7ac46408acd	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:33	e5626cbd-f886-4a29-b5dd-1af67585d727	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	20:58:33	f471f659-d352-4254-b242-0aa9f2b840ad	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:37	36a3644e-c18b-4c47-9840-1742def10af4	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:40	9c0357c7-8127-4bf0-bd9d-155534762955	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	20:58:40	a95d236b-2459-489e-82d9-9f888a58f252	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:42	f2793be9-0ad7-405a-9e4b-d5c0a3510c55	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:52	61eb97ef-909c-4216-b266-63c8da3d7a78	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	20:58:52	dad622d3-b2ec-4d7b-8156-6d3ad7e26232	GET	http://localhost:3000	/employees
+
+2024/05/04	20:58:52	150589a7-855d-4634-bab9-67242be7b1b7	GET	http://localhost:3000	/refresh
+
+2024/05/04	20:58:52	07db0672-bd0f-4ff7-85fa-7dccadd476ed	GET	http://localhost:3000	/employees
+
+2024/05/04	21:02:47	f3745435-33e8-4cff-ad42-df95ea8e8329	GET	http://localhost:3000	/refresh
+
+2024/05/04	21:02:49	bec29495-33b4-480a-b30b-a8e8cd6cdf4a	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	21:02:49	6748d5ae-1066-4c51-bde5-614f8f08db14	GET	http://localhost:3000	/employees
+
+2024/05/04	21:02:53	fc548d56-350f-4082-b233-d7da3d00b8fd	GET	http://localhost:3000	/employees
+
+2024/05/04	21:03:50	e693e024-eaf2-4487-b025-5616061abfc4	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	21:03:50	e599eed6-c5a7-4716-b50f-e617dd112a45	GET	http://localhost:3000	/employees
+
+2024/05/04	21:03:50	2db4400b-991d-4c4b-97c9-3be2bb4acaa2	GET	http://localhost:3000	/refresh
+
+2024/05/04	21:03:50	cf10da08-d2c7-4045-aa9c-9aca187f75c4	GET	http://localhost:3000	/employees
+
+2024/05/04	22:08:32	a302da37-e464-44b1-8871-03c5f87aa5dd	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:08:32	e239342e-3903-44a2-bb8a-89e995521da3	GET	http://localhost:3000	/employees
+
+2024/05/04	22:08:32	019fb136-b5d2-4d1c-b94c-1465a999237a	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:08:32	aabf0075-eb8f-4b46-8407-706c831fafcc	GET	http://localhost:3000	/employees
+
+2024/05/04	22:12:31	ad6c2590-1990-4ea2-aaf3-0379c2a32817	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	22:12:31	63b1f3fc-b55d-46a2-a790-23882d931441	POST	http://localhost:3000	/auth
+
+2024/05/04	22:12:35	49e822d0-701f-443b-b7b3-f3e581a5ba14	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:12:35	c1e6e742-7ffc-4ab0-8313-06128b5479f2	GET	http://localhost:3000	/employees
+
+2024/05/04	22:12:38	3854690c-1f61-4f38-8ff7-8a509889ca9e	GET	http://localhost:3000	/employees
+
+2024/05/04	22:12:41	77adcb08-a337-4af4-83b9-6f772e1a2e52	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:12:41	864d099d-8796-4d7b-b6ef-f46f152aa5e1	GET	http://localhost:3000	/employees
+
+2024/05/04	22:12:43	7d05394b-3055-4418-8228-031b39ad9c35	GET	http://localhost:3000	/employees
+
+2024/05/04	22:12:47	ca798271-5689-4733-ad15-0bc56f4a8938	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:12:47	35a80c17-fa57-44f9-bf35-51b2e19bf4f1	GET	http://localhost:3000	/employees
+
+2024/05/04	22:12:47	521a1fe2-8a45-4c64-9422-1f6ef24aed4a	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:14:29	ec561d8c-fd82-4cbe-b7d0-88b135cec35a	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	22:14:29	ad350eba-4d2a-4c41-ac26-8d8d18fb5619	POST	http://localhost:3000	/auth
+
+2024/05/04	22:14:35	1aa87d8d-d5ad-434f-bd79-bf862dc418f4	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:14:35	e4f864f1-e3b9-4b5f-86a6-70c8e364f406	GET	http://localhost:3000	/employees
+
+2024/05/04	22:14:38	dcac6366-4c11-4425-9292-c7c7eb0ac405	GET	http://localhost:3000	/employees
+
+2024/05/04	22:14:41	57dee54a-30e2-42b5-a829-1595a6240b9a	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:14:41	9beca138-779f-4e1f-b067-0cd2f70faa9f	GET	http://localhost:3000	/employees
+
+2024/05/04	22:14:43	3d3ae0f7-e836-4151-828a-e8eef50b4448	GET	http://localhost:3000	/employees
+
+2024/05/04	22:14:46	cdb3681a-c2d9-4b42-8066-09a1300058f9	GET	http://localhost:3000	/employees
+
+2024/05/04	22:14:46	e20577c2-29fc-41e3-a723-3aa8f62fb0ce	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:15:40	8631f990-4a79-4681-9b86-58a748ee925b	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	22:15:40	6bf1ea64-d5d2-4d4b-b9c3-f411352399bf	POST	http://localhost:3000	/auth
+
+2024/05/04	22:16:04	be6408b6-aee2-4b2f-976f-c0380708b243	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:18:25	9674f81c-0b92-4d5a-a80b-b8090f401cfd	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	22:18:25	b9eef5cb-9535-4f1a-8a19-13d4853993de	POST	http://localhost:3000	/auth
+
+2024/05/04	22:18:30	ce1a0893-76ac-40f6-84bf-df313cecb904	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:18:30	355b4a5e-6c35-4b27-9761-0a741ddc6e37	GET	http://localhost:3000	/employees
+
+2024/05/04	22:18:32	ae094c86-c0e8-4b1d-93fb-533a0f151d87	GET	http://localhost:3000	/employees
+
+2024/05/04	22:18:35	7de56e11-6438-410d-a7fc-77cfe8bc43c1	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:18:35	3ec6ed6e-4146-4370-802d-85f39d38e0f2	GET	http://localhost:3000	/employees
+
+2024/05/04	22:18:38	5dd84fb1-8ce2-4a8a-b3fe-e02c199a54ee	GET	http://localhost:3000	/employees
+
+2024/05/04	22:18:40	0ee4fac3-dcbd-470e-8581-86d2fadb7091	GET	http://localhost:3000	/employees
+
+2024/05/04	22:18:40	be43a0e6-d8f1-43b2-a9d3-5cd39415c4fd	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:20:36	329280f7-4949-4a08-aa38-8cd0d9d28f1a	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	22:20:36	dc53df24-e8da-42ae-b2e6-569b56ad9e60	POST	http://localhost:3000	/auth
+
+2024/05/04	22:20:41	6710906e-0d89-49c2-8312-058baa3b43e0	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:20:41	537dec63-aff1-4987-ac1d-7fb9edf6515e	GET	http://localhost:3000	/employees
+
+2024/05/04	22:20:43	db53983e-cc57-4efa-be3c-e5a7cf794bef	GET	http://localhost:3000	/employees
+
+2024/05/04	22:20:45	d47d528f-42c8-4f84-9a79-e83cc479628c	GET	http://localhost:3000	/employees
+
+2024/05/04	22:20:48	9513efe7-7d7d-41e2-aff7-98754e84d6c6	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:20:48	acde0540-ea0c-4b17-9d0e-97b41a036dc9	GET	http://localhost:3000	/employees
+
+2024/05/04	22:20:51	0beb3497-7464-4f29-8035-b01b27032c98	GET	http://localhost:3000	/employees
+
+2024/05/04	22:20:55	559750be-4bbf-4752-adb6-4ab9d1e7895d	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:20:55	5e5446ac-5165-43fa-b4d1-cb33dbf6ea47	GET	http://localhost:3000	/employees
+
+2024/05/04	22:20:58	b152d614-f004-4b3b-a527-1691fccffb52	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:00	0cdb4052-e4ac-40a6-a2d4-93c57be0344f	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:21:00	14b72779-db22-47e1-a4f0-21c1f205256f	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:03	4136b974-fdc1-45ca-8672-ce3be65a3c5b	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:07	2b5c4ae9-f181-4950-8442-98d3d3f12327	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:21:07	545fa6a7-ebe3-4858-87f9-9658e317b217	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:07	863d843b-037b-4b00-944c-00c4ab64fce0	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:21:07	39da2d6d-f742-4702-bd64-46fde72467c7	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:11	71930181-72cd-4986-8043-6ca05477fa02	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:14	56841f78-a7cb-429a-82a7-1a08da290e5a	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:21:14	b634e293-079f-4740-b4be-226c787ca8e8	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:17	d90dfc39-9f8b-4114-ba3c-ac1e4d81cb12	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:23	71f6d1ae-022f-49c2-88d8-634d39beb60c	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:21:23	18afef22-796d-4b00-9c40-32865144998a	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:26	38c30135-f208-47ff-beb7-059f4d4336e4	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:32	4c451d1e-273e-47e6-8b82-c76e248ed300	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:21:32	cd7facdd-f3c5-46d9-ac06-30c572d2c300	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:35	edb5224c-5b0a-4e4d-9802-3e1b72dfdc76	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:38	1e18a1b2-54ac-4dd9-835a-d3ca0f4e31fb	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:21:38	fd01c700-875b-4c42-b8a8-8e4a920d660a	GET	http://localhost:3000	/employees
+
+2024/05/04	22:21:38	294e0b94-9b00-4077-94a0-0dc9006536ab	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:21:38	ebb08c5d-ed6e-45ed-8082-9256126317e5	GET	http://localhost:3000	/employees
+
+2024/05/04	22:22:04	e92689d1-248a-4719-b003-87075b468154	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:22:04	f721a2c8-2dad-4e7f-a3e1-4c60a899576d	GET	http://localhost:3000	/employees
+
+2024/05/04	22:22:39	23fc05e5-313d-47a3-9c23-25ace6565d0d	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:22:39	98dc7e7d-8146-46b4-a8ab-4b4458697a73	GET	http://localhost:3000	/employees
+
+2024/05/04	22:22:39	59e026d0-72be-441b-a939-a945a9dea3d7	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:22:39	b9aeaa75-ef4d-451f-9c22-e2ee1808a910	GET	http://localhost:3000	/employees
+
+2024/05/04	22:22:55	42e5e1f3-0d36-46b7-9282-d5515f567703	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:22:55	725d815b-8464-4766-9012-dcb3dd908aa2	GET	http://localhost:3000	/employees
+
+2024/05/04	22:22:55	33df0f78-d839-4417-89ed-bf26d140b9a0	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:22:55	c2e97ac8-0fa4-4245-8267-befe6b94ce6f	GET	http://localhost:3000	/employees
+
+2024/05/04	22:23:19	0677c2cc-a3b7-4251-bde5-767562b1c88d	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:23:23	f507a350-af87-43a8-b062-8b74bdfe7f89	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:23:23	68331aff-bc47-4520-9c26-c89cdbe83482	GET	http://localhost:3000	/employees
+
+2024/05/04	22:23:24	4a3b5d4b-828a-40f2-86fa-ce9944fa49e9	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:23:24	88c98475-b8e6-42ea-9cef-3329e1071d7d	GET	http://localhost:3000	/employees
+
+2024/05/04	22:24:30	4836e548-ba70-4889-9fc3-d594fe5dad96	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:24:30	abaf93e5-7855-401c-ba21-f0be94c73990	GET	http://localhost:3000	/employees
+
+2024/05/04	22:24:30	c92db394-14c7-41ba-9e2e-5ddcfeebb898	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:24:30	7df37fbb-2407-49ae-9bc8-3db4404c18e9	GET	http://localhost:3000	/employees
+
+2024/05/04	22:24:35	2f5c9c04-bd77-4ee0-8724-8833727d6479	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:24:35	f78fd674-3e9f-4a1c-9220-05a86d3840b3	GET	http://localhost:3000	/employees
+
+2024/05/04	22:24:35	a9f4301a-d95d-433e-9919-a9b4ead905ea	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:24:35	d7c9a808-722b-4df7-a7de-461136581ece	GET	http://localhost:3000	/employees
+
+2024/05/04	22:24:46	3a66f047-46bf-4474-9960-c15088c6b561	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:24:46	edfa1ad3-2660-4d34-9a00-df18191627f8	GET	http://localhost:3000	/employees
+
+2024/05/04	22:24:46	1896782a-68c5-4a86-9b2f-376af1987e29	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:24:46	bf002f59-6a4b-4d36-b5f5-99a22504b768	GET	http://localhost:3000	/employees
+
+2024/05/04	22:25:32	38b2380e-1560-47ce-92f9-68c5ce30d070	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:25:32	e61131c8-9ed5-4f15-aaa1-a0b9230e345b	GET	http://localhost:3000	/employees
+
+2024/05/04	22:25:32	16dbb65b-4b84-4192-a50a-4eeaa69fcc54	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:25:32	68dd6c31-aee1-4b35-af00-9a6307641b5d	GET	http://localhost:3000	/employees
+
+2024/05/04	22:27:06	b5251c6c-d16b-4f61-8fbc-eebf8fe5f454	OPTIONS	http://localhost:3000	/auth
+
+2024/05/04	22:27:06	b1c9918c-a1ba-49bc-b63f-632fd848ed52	POST	http://localhost:3000	/auth
+
+2024/05/04	22:27:12	689a74d1-6dc0-4d0b-b944-d41c843a8a4e	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:27:12	500c47f6-1c12-4fda-9353-602a68430b32	GET	http://localhost:3000	/employees
+
+2024/05/04	22:27:17	4da855c1-4604-477c-8617-aeb7055591a7	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:27:17	7ac46da8-bbb5-422c-9575-8af4cd208c2f	GET	http://localhost:3000	/employees
+
+2024/05/04	22:29:34	efdd152c-ad55-4267-97cb-3bc7fbf1e039	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:29:34	d10a6c86-8c4f-4696-bcfa-aaccf88ae861	GET	http://localhost:3000	/employees
+
+2024/05/04	22:29:34	c1c58672-7ab2-4b7c-b7cf-d14cce63c380	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:29:34	5559065b-d20d-496d-9220-506e8a4f470c	GET	http://localhost:3000	/employees
+
+2024/05/04	22:31:25	aebd8a79-b9c4-4a4a-b7d2-61cf72e71405	OPTIONS	http://localhost:3000	/employees
+
+2024/05/04	22:31:25	c24d5633-57e9-4279-842d-df43daf4d5be	GET	http://localhost:3000	/employees
+
+2024/05/04	22:31:25	6a033bea-df42-450a-9af1-a9966dd8ba2e	GET	http://localhost:3000	/refresh
+
+2024/05/04	22:31:25	c7bf92ba-41d5-4731-914e-462e9fce8b72	GET	http://localhost:3000	/employees
+

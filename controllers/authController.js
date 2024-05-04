@@ -90,7 +90,11 @@ const handleLogin = asyncHandler(async (req, res) => {
     secure: process.env.ENVIRONMENT === 'development' ? false : true,
     maxAge: 24 * 60 * 60 * 1000,
   });
-  res.status(200).json({ accessToken });
+  res.status(200).json({
+    accessToken,
+    roles: roles,
+    username: foundUser.username,
+  });
 });
 
 module.exports = { handleLogin };

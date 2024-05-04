@@ -1,3 +1,3 @@
-const allowedOrigins = ['https://www.yo.com', 'http://localhost:3500'];
+const allowedOrigins = ['https://www.yo.com', 'http://localhost:3000'];
 
 module.exports = allowedOrigins;

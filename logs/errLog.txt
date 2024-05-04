@@ -124,3 +124,25 @@
 
 2024/03/15	10:40:35	66e95a45-5428-45d3-b02b-f985bad18409	Error:Cannot set headers after they are sent to the client
 
+2024/05/04	18:03:50	e201a06c-37df-4986-9a42-c5a32f5bde3a	Error:Not allowed by cors
+
+2024/05/04	18:08:49	f32d6f8a-ad7b-45a6-aae7-f65adc896e35	Error:Cannot set headers after they are sent to the client
+
+2024/05/04	18:09:19	edc5ff31-1ac4-4fba-bfbc-a63298ee84c2	Error:Cannot set headers after they are sent to the client
+
+2024/05/04	18:09:34	d8b413de-3388-4551-9db9-182f8c60fc6e	Error:Cannot set headers after they are sent to the client
+
+2024/05/04	18:48:23	7d26ca54-d9c9-45d6-97ca-39edf3fe829c	Error:Unable to login
+
+2024/05/04	19:58:55	566cbe72-6181-4792-94ea-05725e80b35d	ReferenceError:refreshToken is not defined
+
+2024/05/04	20:44:56	b4904b44-3ef6-487d-b55e-9a026fb24925	Error:Cannot set headers after they are sent to the client
+
+2024/05/04	20:46:52	8384bc7c-82b5-4eca-9c52-01ca7971173d	Error:Cannot set headers after they are sent to the client
+
+2024/05/04	20:47:20	b4338f51-6936-4efa-bf35-690990dc9d28	Error:Cannot set headers after they are sent to the client
+
+2024/05/04	20:47:49	15dcac44-58f8-415e-8f2b-305393a8cf21	Error:Cannot set headers after they are sent to the client
+
+2024/05/04	20:52:10	d4910062-00dd-4cac-9bac-bff7f690c99d	Error:Cannot set headers after they are sent to the client
+
